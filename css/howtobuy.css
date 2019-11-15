@@ -1,0 +1,57 @@
+#howtopurchase {
+	margin-top: 3%;
+	font-size: 40px;
+	font-family: "arial";
+	text-align: center;
+	color: #8e8e8e;
+	max-width: 310px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#howtopurchaseunderline {
+	width: 100%;
+}
+
+.maintext {
+	margin-left: 2%;
+	display: block;
+}
+
+.topic {
+	text-align: left;
+	font-size: 35px;
+	color: #8e8e8e;
+	font-family: "arial";
+	margin-bottom: 1%;
+	display: block;
+}
+
+
+
+#ordermethodsblock {
+	text-align: left;
+	width: 75%;
+	display: block;
+	font-family: "arial";
+	font-size: 16px;
+	color: #8e8e8e;
+	margin-bottom: 3%;
+}
+#ordermethodsblock > span {
+	display: block;
+}
+
+.textblock {
+	text-align: left;
+	width: 75%;
+	display: block;
+	font-family: "arial";
+	font-size: 16px;
+	color: #8e8e8e;
+	margin-bottom: 3%;
+}
+.textblock > span {
+	display: block;
+	margin-bottom: 1%;
+}
